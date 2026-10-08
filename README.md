@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=moirallegiance&color=red)
+![](https://komarev.com/ghpvc/?username=moirallegiance&color=red&label=heroes)
